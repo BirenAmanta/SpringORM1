@@ -1,0 +1,10 @@
+2022-03-23 16:27:17,774 ERROR [main] LoggingAspects:17 - com.mindtree.exception.ORMException: Service.EMPLOYEE_NOT_FOUND
+2022-03-23 16:30:08,253 ERROR [main] LoggingAspects:22 - No details found for given employee.
+2022-03-23 16:36:50,943  INFO [main] UserInterface:43 - 
+Employee details successfully added with employee id: 2007
+2022-03-23 16:36:50,989  INFO [main] UserInterface:57 - 
+EmployeeDTO [employeeId=2001, emailId=jack@mail.com, name=Jack, dateOfBirth=1988-09-03, manufacturingUnit=U001]
+2022-03-23 16:36:51,011  INFO [main] UserInterface:74 - 
+Employee email id successfully updated.
+2022-03-23 16:36:52,228  INFO [main] UserInterface:88 - 
+Employee details successfully deleted.
